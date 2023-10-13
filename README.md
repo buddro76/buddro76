@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @buddro76
 - 👀 I’m interested in ...web/app development
-- 🌱 I’m currently learning ...HTML CSS3
+- Hello Odin
+🌱 I’m currently learning ...HTML CSS3
 - 💞️ I’m looking to collaborate on ...game,ecommerce apps
 - 📫 How to reach me ...ty81jones@gmail.com
 
